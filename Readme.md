@@ -11,7 +11,7 @@ The application’s design is intentionally kept minimal and basic due to the fo
 ### Prerequisites
 
 - Node.js (v14 or higher)
-- npm or yarn
+- npm or yarn))))))))
 
 ### SERVER RUN
 
